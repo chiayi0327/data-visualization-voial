@@ -1,5 +1,16 @@
 # data-visualization-voila
 
+## Visualization for Divvy Bike Share System
+[Divvy](https://divvybikes.com) is Chicagoland’s bike share system across Chicago and Evanston. Divvy provides residents and visitors with a convenient, fun and affordable transportation option for getting around and exploring Chicago. 
+
+We decide to explore the data Divvy provide, and make some visualization and interactive for this dataset.
+
+### Phase 1
+With exploring the dataset in phase 1, check file `phase_one.ipynb`.
+
+### Phase 2
+
+
 ## Prerequisite
 0. install voila in your computer
 
