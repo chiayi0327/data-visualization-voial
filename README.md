@@ -1,12 +1,12 @@
 # Data-visualization-voila
 
-## Visualization for Divvy Bike Share System
-[Divvy](https://divvybikes.com) is Chicagoland’s bike share system across Chicago and Evanston. Divvy provides residents and visitors with a convenient, fun and affordable transportation option for getting around and exploring Chicago. 
+## Visualization of Divvy Bike Share System
+[Divvy](https://divvybikes.com) is a Chicagoland’s bike share system which located across Chicago and Evanston. Divvy provides thr residents and thr tourists in Chicago with a convenient, fun, and affordable transportation option for getting around and exploring Chicago. 
 
-We decide to explore the data Divvy provide, and make some visualization and interactive for this dataset.
+We decided to explore the data Divvy provideed, and made some visualizations and interactive plots for this dataset.
 
 ### Phase 1
-With exploring the dataset in phase 1, check file `phase_one.ipynb`.
+We explored the dataset in phase 1, please check file `phase_one.ipynb`.
 
 ### Phase 2
 The second component of your project will be to design your "observatory". This could consist of drawings, prototypes of web pages or notebooks, and the code necessary to build the different components. This component is scaffolding, not the final product. It should be thought of as the "viz for peers" stage of the process. 
@@ -14,7 +14,7 @@ The second component of your project will be to design your "observatory". This 
 Check file - `FinalProject-PhaseTwo-GroupA.ipynb`
 
 ### Phase 3
-We decide to deploy our interactive dashboard with **voila**. Below are installation steps and our results. Code is in file `phasethree_voila.ipynb`, below are following steps to help you install make the website run with voila and check the final results.
+We decided to deploy our interactive dashboard with **voila**. Below are installation steps and our results. Code is in file `phasethree_voila.ipynb`. Please see the following steps as below to help your installation. Then, you may have website run successfully with voila and get the final results and interactive visualizations!
 
 ## Prerequisite
 0. install [voila](https://voila.readthedocs.io/en/stable/install.html) in your computer.
