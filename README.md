@@ -41,7 +41,7 @@ We decided to deploy our interactive dashboard with **voila**. Below are install
 ![image](image/total.gif)
 
 5. Filter **birthyear** column of the dataset.
-![image](data/filter_df_1.gif)
+![image](image/filter_df_1.gif)
 
 6. Filter with column **trip_duration, birthyear, bikeid** of the dataset.
 ![image](image/scroll_filterdf_2.gif)
