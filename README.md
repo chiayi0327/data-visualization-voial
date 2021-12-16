@@ -14,7 +14,7 @@ The second component of your project will be to design your "observatory". This 
 Check file - `FinalProject-PhaseTwo-GroupA.ipynb`
 
 ### Phase 3
-We decided to deploy our interactive dashboard with **voila**. Below are installation steps and our results. Code is in file `phasethree_voila.ipynb`. Please see the following steps as below to help your installation. Then, you may have website run successfully with voila and get the final results and interactive visualizations!
+We decided to deploy our interactive dashboard with **voila**. Below are installation steps and our results. Code is in file `IS445_Final Project _Phase Three_Group A.ipynb`. Please see the following steps as below to help your installation. Then, you may have website run successfully with voila and get the final results and interactive visualizations!
 
 ## Prerequisite
 0. install [voila](https://voila.readthedocs.io/en/stable/install.html) in your computer.
