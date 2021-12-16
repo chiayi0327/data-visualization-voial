@@ -23,34 +23,34 @@ We decide to deploy our interactive dashboard with **voila**. Below are installa
 ## Steps by steps
 
 1. Use `voila name.ipynb` to run voila.
-![image](data/01.gif)
+![image](image/01.gif)
 
 2. It will automatically open a new website in the broswer to see the interactive page. It will take few seconds.
-![image](data/02.gif)
+![image](image/02.gif)
 
 3. Scroll down to see what you have got in the website.
-![image](data/03.gif)
+![image](image/03.gif)
 
 4. Total number of trips in a day.
-![image](data/total.gif)
+![image](image/total.gif)
 
 5. Filter **birthyear** column of the dataset.
 ![image](data/filter_df_1.gif)
 
 6. Filter with column **trip_duration, birthyear, bikeid** of the dataset.
-![image](data/scroll_filterdf_2.gif)
+![image](image/scroll_filterdf_2.gif)
 
 7. Count of price category in 2019.
-![image](data/04.gif)
+![image](image/04.gif)
 
 8. Percentage of price category in 2019.
-![image](data/05.gif)
+![image](image/05.gif)
 
 9. 2019 Q1 Daily Trip Duration.
-![image](data/06.gif)
+![image](image/06.gif)
 
 10. 2020 Q1 Daily Trip Duration.
-![image](data/07.gif)
+![image](image/07.gif)
 
 ## Result
 Check the voila output with `output` file.
