@@ -31,6 +31,12 @@ We decided to deploy our interactive dashboard with **voila**. Below are install
 3. Scroll down to see what you have got in the website.
 ![image](image/03.gif)
 
+4. Famous station in the dataset.
+![image](image/Famous_Start_Station.gif)
+
+5. Number of users from 2019 to 2020.
+![image](image/number_users_2019_to_2020.gif)
+
 4. Total number of trips in a day.
 ![image](image/total.gif)
 
